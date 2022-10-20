@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# © 2022 YUki Sato s21C1056FY@s.chibakoudai.jp
 import sys
 
 ans = 0.0
