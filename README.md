@@ -1,5 +1,6 @@
 # robosys2022
 ロボットシステム学の練習リポジトリ
+
 Copyright 2022 YUki Sato
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
