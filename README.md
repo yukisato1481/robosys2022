@@ -1,6 +1,17 @@
 # robosys2022
 ロボットシステム学の練習リポジトリ
 
+# plusコマンド
+![test](https://github.com/yukisato/robosys2022/actions/workflows/test.yml/badge.svg)
+
+## 必要なソフトウェア
+* pyhton
+  * テスト済み: 3.7～3.10
+
+## テスト環境
+* Ubuntu
+
+## ライセンス
 Copyright 2022 YUki Sato
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
