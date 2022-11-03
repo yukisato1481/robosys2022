@@ -2,7 +2,7 @@
 ロボットシステム学の練習リポジトリ
 
 # plusコマンド
-![test](https://github.com/yukisato/robosys2022/actions/workflows/test.yml/badge.svg)
+![test](https://github.com/yukisato1481/robosys2022/actions/workflows/test.yml/badge.svg)
 
 ## 必要なソフトウェア
 * pyhton
