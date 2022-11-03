@@ -1,11 +1,12 @@
 # robosys2022
 ロボットシステム学の練習リポジトリ
 
-#test.bash
-足し算の計算
 
 # plusコマンド
 ![test](https://github.com/yukisato1481/robosys2022/actions/workflows/test.yml/badge.svg)
+
+## test.bash
+*足し算の計算
 
 ## 必要なソフトウェア
 * pyhton
