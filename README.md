@@ -7,21 +7,21 @@
   * 標準入力から読み込んだ数字の足し算
 
 ## インストール方法
-  ```
-  下記のコマンドを入力する  
+
+  下記のコマンドを入力しインストールが完了していることを確認する  
+```
   $ git clone https://github.com/yukisato1481/robosys2022.git    
-  ディレクトリを移動する  
   $ cd robosys2022  
-  インストールが無事完了していることを確認する  
   $ ls  
   LICENSE  README.md  plus  test.bash  
-  ```
+```  
 ## plus 入出力例
-  ```
+  
   1から5までの数字の足し算  
+```
   $ seq 5 | ./plus  
   15.0
-  ```  
+```  
 ## 環境
   * Ubuntu 18.04.5 on Windows
   * Python 3.7～3.10
