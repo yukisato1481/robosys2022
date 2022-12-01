@@ -8,10 +8,7 @@
 
 ## インストール方法
   * 下記のコマンドを入力する  
-  _$ git clone https://github.com/yukisato1481/robosys2022.git_  
-  * robosys2022が入っていることを確認する  
-  _$ ls_  
-  _robosys2022_  
+  _$ git clone https://github.com/yukisato1481/robosys2022.git_    
   * ディレクトリを移動する  
   _$ cd robosys2022_  
   * インストールが無事完了していることを確認する  
