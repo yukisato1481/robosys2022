@@ -8,17 +8,17 @@
 
 ## インストール方法
   * 下記のコマンドを入力する  
-  _$ git clone https://github.com/yukisato1481/robosys2022.git_    
+  '$ git clone https://github.com/yukisato1481/robosys2022.git'    
   * ディレクトリを移動する  
-  _$ cd robosys2022_  
+  '$ cd robosys2022'  
   * インストールが無事完了していることを確認する  
-  _$ ls_  
-  _LICENSE  README.md  plus  test.bash_  
+  '$ ls_  
+  'LICENSE  README.md  plus  test.bash'  
 
 ## plus 入出力例
   * 1から5までの数字の足し算  
-  _$ seq 5 | ./plus_  
-  _15.0_  
+  '$ seq 5 | ./plus'  
+  '15.0'  
 ## 環境
   * Ubuntu 18.04.5 on Windows
   * Python 3.7～3.10
