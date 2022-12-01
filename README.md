@@ -16,9 +16,9 @@
   _LICENSE  README.md  plus  test.bash_  
 
 ## plus 入出力例
-  * 1から5までの数字の足し算
-  _$ seq 5 | ./plus_
-  _15.0_
+  * 1から5までの数字の足し算  
+  _$ seq 5 | ./plus_  
+  _15.0_  
 ## 環境
   * Ubuntu 18.04.5 on Windows
   * Python 3.7～3.10
